@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/4961b7ee-6624-439d-abbc-a10f9d334315.j5gfbj34xh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4961b7ee-6624-439d-abbc-a10f9d334315.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j5gfbj34xh"},{"Name":"integrity","Value":"sha256-h0ZqSz89zYpp8lfS5hP0bZOYIlwyDJEZm0LPar0Z9b4="},{"Name":"label","Value":"_content/MootechPic.API/images/4961b7ee-6624-439d-abbc-a10f9d334315.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1807644"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h0ZqSz89zYpp8lfS5hP0bZOYIlwyDJEZm0LPar0Z9b4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 19 Apr 2025 08:11:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/4961b7ee-6624-439d-abbc-a10f9d334315.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4961b7ee-6624-439d-abbc-a10f9d334315.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h0ZqSz89zYpp8lfS5hP0bZOYIlwyDJEZm0LPar0Z9b4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1807644"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h0ZqSz89zYpp8lfS5hP0bZOYIlwyDJEZm0LPar0Z9b4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 19 Apr 2025 08:11:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/746c4fcf-aa00-4305-9b47-677e0ec0f61d.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\746c4fcf-aa00-4305-9b47-677e0ec0f61d.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"33257"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 20:49:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/746c4fcf-aa00-4305-9b47-677e0ec0f61d.n9iuz5pk8w.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\746c4fcf-aa00-4305-9b47-677e0ec0f61d.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n9iuz5pk8w"},{"Name":"integrity","Value":"sha256-\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM="},{"Name":"label","Value":"_content/MootechPic.API/images/746c4fcf-aa00-4305-9b47-677e0ec0f61d.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33257"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 20:49:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/c85cef30-df3a-46a2-95c0-f5823bc7e121.89508pjxjj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c85cef30-df3a-46a2-95c0-f5823bc7e121.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"89508pjxjj"},{"Name":"integrity","Value":"sha256-ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o="},{"Name":"label","Value":"_content/MootechPic.API/images/c85cef30-df3a-46a2-95c0-f5823bc7e121.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41407"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 20:49:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/c85cef30-df3a-46a2-95c0-f5823bc7e121.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c85cef30-df3a-46a2-95c0-f5823bc7e121.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41407"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 20:49:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/sample1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sample1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"33257"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 19:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/sample1.n9iuz5pk8w.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sample1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n9iuz5pk8w"},{"Name":"integrity","Value":"sha256-\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM="},{"Name":"label","Value":"_content/MootechPic.API/images/sample1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33257"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002B36pxFj3NiIWk/l4vis0I9QojvPP7ewLrrNu5fSxELM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 19:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/sample2.89508pjxjj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sample2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"89508pjxjj"},{"Name":"integrity","Value":"sha256-ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o="},{"Name":"label","Value":"_content/MootechPic.API/images/sample2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41407"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 19:31:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MootechPic.API/images/sample2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sample2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41407"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZGklW4VyzqOF3FO8J/qzaux9V6KUJKSlnVn1u1xdV2o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 19:31:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

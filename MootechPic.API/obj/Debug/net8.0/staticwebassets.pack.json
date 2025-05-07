@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\matas\\Desktop\\MootechPIC export\\MootechPic.API\\MootechPic.API\\wwwroot\\images\\4961b7ee-6624-439d-abbc-a10f9d334315.png",
+      "PackagePath": "staticwebassets\\images\\4961b7ee-6624-439d-abbc-a10f9d334315.png"
+    },
+    {
+      "Id": "C:\\Users\\matas\\Desktop\\MootechPIC export\\MootechPic.API\\MootechPic.API\\wwwroot\\images\\746c4fcf-aa00-4305-9b47-677e0ec0f61d.jpg",
+      "PackagePath": "staticwebassets\\images\\746c4fcf-aa00-4305-9b47-677e0ec0f61d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\matas\\Desktop\\MootechPIC export\\MootechPic.API\\MootechPic.API\\wwwroot\\images\\c85cef30-df3a-46a2-95c0-f5823bc7e121.jpg",
+      "PackagePath": "staticwebassets\\images\\c85cef30-df3a-46a2-95c0-f5823bc7e121.jpg"
+    },
+    {
+      "Id": "C:\\Users\\matas\\Desktop\\MootechPIC export\\MootechPic.API\\MootechPic.API\\wwwroot\\images\\sample1.jpg",
+      "PackagePath": "staticwebassets\\images\\sample1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\matas\\Desktop\\MootechPIC export\\MootechPic.API\\MootechPic.API\\wwwroot\\images\\sample2.jpg",
+      "PackagePath": "staticwebassets\\images\\sample2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MootechPic.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MootechPic.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MootechPic.API.props",
+      "PackagePath": "build\\MootechPic.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MootechPic.API.props",
+      "PackagePath": "buildMultiTargeting\\MootechPic.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MootechPic.API.props",
+      "PackagePath": "buildTransitive\\MootechPic.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
